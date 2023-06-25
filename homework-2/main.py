@@ -21,3 +21,4 @@ if __name__ == '__main__':
     print(Item.string_to_number('5.0'))
 
     print(Item.string_to_number('5.5'))
+
